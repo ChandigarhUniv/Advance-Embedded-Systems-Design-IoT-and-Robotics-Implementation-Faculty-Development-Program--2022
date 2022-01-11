@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[ASSISTANT PROFESSOR,CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)✨ presenting the report on 
+[Mechatronics Robotics Club At CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)✨ presenting the report on 
 
 ![](https://github.com/ChandigarhUniv/Robotics4Mechatrons_-CU/blob/main/GALLERY/EGATE-TEXAS-FDP/FDP22_%20(2).jpg)
 
