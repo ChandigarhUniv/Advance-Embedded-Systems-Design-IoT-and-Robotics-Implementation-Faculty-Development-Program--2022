@@ -116,4 +116,4 @@ Movement
 **[On-Demand Recorded Sessions](https://drive.google.com/drive/u/0/folders/1JR5n-0NGv2IUPysfW2U0JVEHVp-l10p_)
   
 ## Documented By:
-  [Assistant Professor, Anurag Sharma, [Mechatrons Robotics CLUB Coordinator](https://github.com/ChandigarhUniv/Robotics4Mechatrons_-CU)](https://github.com/designerguy13-photonics/designerguy13-photonics)
+  [Assistant Professor, Anurag Sharma](https://github.com/designerguy13-photonics/designerguy13-photonics), [Mechatrons Robotics CLUB Coordinator](https://github.com/ChandigarhUniv/Robotics4Mechatrons_-CU)
