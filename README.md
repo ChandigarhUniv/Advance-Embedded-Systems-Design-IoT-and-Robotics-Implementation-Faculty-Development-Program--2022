@@ -21,8 +21,8 @@ A 3-day FDP course (later extended to 5-Days on demand) on **Embedded Systems an
 
 3.  Download Code Composer Studio version 7.4 or the version which is installed already in a few systems, you can download this from the below link (Disable the anti-virus before installing the [Texas_software](https://software-dl.ti.com/ccs/esd/documents/ccs_downloads.html). (select version 7.4.0 of windows from this link)
 
-4. Download Energia-0101E0017, you can download this from the below link
-http://energia.nu/download/ (select version 21 or 17 of the IDE it is not installed)
+4. Download [Energia-0101E0017](http://energia.nu/download/) 
+  **(select version 21 or 17 of the IDE it is not installed)**
 
 5. Few Pen drives during the training
 
