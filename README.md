@@ -1,7 +1,7 @@
 ### Hi there 👋 
 [Mechatronics Robotics Club At CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)✨ presenting the report on 
 
-![](https://github.com/ChandigarhUniv/Robotics4Mechatrons_-CU/blob/main/GALLERY/EGATE-TEXAS-FDP/FDP22_%20(2).jpg)
+[![](https://github.com/ChandigarhUniv/Robotics4Mechatrons_-CU/blob/main/GALLERY/EGATE-TEXAS-FDP/FDP22_%20(2).jpg)](https://drive.google.com/file/d/1FfP2bLFxEvG5IrQZbJXmT8mtRQErrwLX/view?usp=sharing)
 
 # Advance-Embedded-Systems-Design-IoT-and-Robotics-Implementation-Faculty-Development-Program--2022 🚀 
 A 3-day Faculty development program (which later extended to 5 Days on-demand) was offered by EdGate Technologies Pvt. Ltd. as a part of the MoU specified TEXAS Instruments and Innovation Center of Excellence at Department of Mechatronics Engineering, Chandigarh University.
